@@ -15,13 +15,12 @@ assistant = Client(
     session_string=STRING_SESSION
 )
 
-from pyrogram import idle
-assistant.start()
+from pyrogram import Clint, idle
+#assistant.start()
 bot.start()
 
 print("Bot Started")
 print("Assistant Started")
-
 bot.idle()
 
 bot.stop()
