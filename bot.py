@@ -15,7 +15,6 @@ assistant = Client(
     session_string=STRING_SESSION
 )
 
-from pyrogram import Client
 #assistant.start()
 bot.start()
 
