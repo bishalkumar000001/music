@@ -16,7 +16,7 @@ assistant = Client(
 )
 
 from pyrogram import idle
-#assistant.start()
+assistant.start()
 bot.start()
 
 print("Bot Started")
