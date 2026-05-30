@@ -25,4 +25,4 @@ print("Assistant Started")
 bot.idle()
 
 bot.stop()
-assistant.()
+assistant.stop()
