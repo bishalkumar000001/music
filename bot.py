@@ -15,7 +15,7 @@ assistant = Client(
     session_string=STRING_SESSION
 )
 
-assistant.start()
+#assistant.start()
 bot.start()
 
 print("Bot Started")
